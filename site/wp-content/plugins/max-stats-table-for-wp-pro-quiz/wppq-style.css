@@ -1,0 +1,128 @@
+.wppqTestTitle {
+	font-size: 140%;
+	font-weight: bold;
+	margin-bottom: 15px;
+	margin-top: 50px;
+}
+
+.wppqTestSubTitle {
+	font-size: 90%;
+	font-style: italic;
+}
+
+.wppqError {
+	font-size: 150%;
+	line-height: 1.5em;
+	color: #c20000;
+}
+
+.wppqMaxStatsTable {
+	width: 100%;
+	background: #f9f9f9;
+	border: 1px solid #999999 !important;
+}
+
+.wppqRightAlign {
+	text-align: right;
+}
+
+.wppqWideField {
+	width: 40%;
+}
+
+.dbResetSuccessful {
+	border: 1px solid #444444;
+	width: 100%;
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+	color: #ffffff;
+	line-height: 2.0;
+	background: #4b9566;
+}
+
+.dbResetNoAdmin {
+	border: 1px solid #444444;
+	width: 100%;
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+	color: #ffffff;
+	line-height: 2.0;
+	background: #ecac2e;
+}
+
+.dbResetError {
+	border: 1px solid #444444;
+	width: 100%;
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+	color: #ffffff;
+	line-height: 2.0;
+	background: #bc2e00;
+}
+
+.dbResetReese {
+	border: 1px solid #444444;
+	width: 100%;
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+	color: #ffffff;
+	line-height: 2.0;
+	background: #0000ff;
+}
+
+.dbResetSasha {
+	border: 1px solid #444444;
+	width: 100%;
+	text-align: center;
+	font-size: 130%;
+	font-weight: bold;
+	color: #ffffff;
+	line-height: 2.0;
+	background: #7d00bb;
+}
+
+.centerTheThingsDiv {
+	width: 100%;
+	text-align: center;
+}
+
+.delStatsButton {
+	font-size: 150%;
+	font-weight: bold;
+	border: none;
+	color: white;
+	padding: 14px 28px;
+	cursor: pointer;
+	background-color: #f44336;
+	width: 80%;
+}
+
+.delStatsButton:hover {
+	background: #da190b;
+}
+
+.statsLastCleared {
+	font-size: 120%;
+	font-weight: bold;
+}
+
+.outputBox {
+    -moz-transition: background .3s ease-in;
+    -o-transition: background .3s ease-in;
+    -webkit-transition: background .3s ease-in;
+    transition: background .3s ease-in;
+	padding: 11px;
+	border: solid 1px #ccc;
+	background-color: #f9f9f9;
+	font-weight: bold;
+    cursor: pointer;
+}
+
+.outputBox:hover {
+	background-color: #fafeb5;
+}
+

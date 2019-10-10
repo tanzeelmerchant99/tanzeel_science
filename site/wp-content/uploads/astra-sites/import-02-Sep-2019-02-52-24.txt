@@ -1,0 +1,122 @@
+
+Imported Customizer Settings {"astra-settings":{"astra-addon-auto-version":"1.8.7","theme-auto-version":"1.8.7","site-content-layout":"boxed-container","body-font-family":"'Noto Sans', sans-serif","body-font-weight":"400","body-font-variant":"400,700","headings-font-family":"'Montserrat', sans-serif","headings-font-variant":"","headings-font-weight":"700","font-size-h2":{"desktop":"32","tablet":"","mobile":"24","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"24","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"theme-color":"#fb2056","link-color":"#fb2056","text-color":"#222222","link-h-color":"#fb2056","transparent-menu-bg-color-responsive":{"desktop":"rgba(255,255,255,0)","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"#ffffff","tablet":"#fb2056","mobile":"#fb2056"},"transparent-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"#000000","mobile":"#000000"},"ast-header-responsive-logo-width":{"desktop":"140","tablet":"","mobile":"100"},"display-site-title":true,"font-size-body":{"desktop":"16","tablet":"","mobile":"15","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"footer-sml-section-1-credit":"123 Fifth Avenue, NY 10160, New York, USA  |  Phone: 800-123-456  |  Email: contact@example.com","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Copyright \u00a9 [current_year] Outdoor Adventure ","footer-color":"#d3d3d3","footer-link-color":"#fb2056","footer-link-h-color":"#fb2056","footer-bg-obj":{"background-color":"#191919","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"header-main-rt-section":"button","header-main-rt-section-html":"<button class=\"customBtn\">Take Action<\/button>","font-size-h1":{"desktop":"64","tablet":"44","mobile":"30","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":60,"button-v-padding":8,"button-h-padding":38,"body-line-height":"1.49","font-size-h4":{"desktop":"20","tablet":"","mobile":"19","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"15","tablet":"","mobile":"15","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"18","tablet":"","mobile":"16","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"transparent-header-enable":false,"different-transparent-logo":false,"transparent-header-logo":"","transparent-header-disable-archive":true,"mobile-header-toggle-btn-style":"fill","mobile-header-toggle-btn-style-color":"","display-site-tagline":true,"logo-title-inline":false,"transparent-header-color-site-title-responsive":{"desktop":"#ffffff","tablet":"#ffffff","mobile":""},"font-size-site-title":{"desktop":"22","tablet":"","mobile":"20","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":"15","tablet":"","mobile":"14","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-section-button-text":"Take Action","header-main-rt-section-button-link":"#","button-color":"","button-bg-color":"","button-h-color":"","button-bg-h-color":"","header-main-rt-section-button-style":"custom-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"10","right":"26","bottom":"10","left":"26"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"header-main-rt-trans-section-button-text-color":"rgba(255,255,255,0.9)","header-main-rt-trans-section-button-back-color":"rgba(255,255,255,0)","hide-custom-menu-mobile":false,"header-display-outside-menu":false,"transparent-header-on-devices":"desktop","transparent-header-main-sep-color":"#ffffff","transparent-header-disable-page":false,"header-main-rt-trans-section-button-text-h-color":"#ffffff","header-main-rt-trans-section-button-back-h-color":"#fb2056","header-main-rt-trans-section-button-border-size":{"top":"2","right":"2","bottom":"2","left":"2"},"header-main-rt-trans-section-button-border-color":"rgba(255,255,255,0.9)","header-main-rt-trans-section-button-border-h-color":"#fb2056","header-main-rt-trans-section-button-padding":{"desktop":{"top":"8","right":"22","bottom":"8","left":"22"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"transparent-header-disable-index":true,"transparent-header-disable-posts":true,"header-main-sep":0,"footer-sml-divider":0,"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"blog-single-post-structure":["single-title-meta","single-image"],"blog-single-meta":["comments","category","author"],"blog-single-width":"default","blog-single-max-width":1100},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/351/wxr.xml
+Inserted - Term 10 - {"term_id":10,"name":"Neque","slug":"neque","term_group":0,"term_taxonomy_id":10,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 11 - {"term_id":11,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":11,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 12 - {"term_id":12,"name":"section","slug":"section","term_group":0,"term_taxonomy_id":12,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 13 - {"term_id":13,"name":"Menu","slug":"menu","term_group":0,"term_taxonomy_id":13,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 29 - attachment - hiking
+Inserted - Post 30 - attachment - hiking
+Inserted - Post 35 - attachment - walk
+Inserted - Post 58 - attachment - about-bg
+Inserted - Post 62 - attachment - vision
+Inserted - Post 91 - attachment - services-1
+Inserted - Post 94 - attachment - services-2
+Inserted - Post 98 - attachment - camping-02-free-img
+Inserted - Post 99 - attachment - services-3
+Inserted - Post 132 - attachment - quote
+Inserted - Post 151 - attachment - 19-1
+Inserted - Post 157 - attachment - mission
+Inserted - Post 158 - attachment - about-bg
+Inserted - Post 168 - attachment - snow
+Inserted - Post 170 - attachment - snow-1
+Inserted - Post 178 - attachment - section-bg
+Inserted - Post 179 - attachment - water-sports-01
+Inserted - Post 180 - attachment - water-sports-02
+Inserted - Post 182 - attachment - water-sports-03
+Inserted - Post 183 - attachment - water-sports-04
+Inserted - Post 185 - attachment - winter-sports-01
+Inserted - Post 186 - attachment - winter-sports-02
+Inserted - Post 187 - attachment - winter-sports-03
+Inserted - Post 188 - attachment - winter-sports-04
+Inserted - Post 190 - attachment - camp-1
+Inserted - Post 191 - attachment - camp-2
+Inserted - Post 192 - attachment - camp-3
+Inserted - Post 193 - attachment - camp-4
+Inserted - Post 194 - attachment - services-bg
+Inserted - Post 195 - attachment - adventure-black-logo@2x-161&#215;40
+Inserted - Post 198 - attachment - winter-sport
+Inserted - Post 216 - attachment - project-background
+Inserted - Post 228 - attachment - image-1
+Inserted - Post 237 - attachment - hero-bg
+Inserted - Post 270 - attachment - outdoor-facebook-yoast-free-img
+Inserted - Post 275 - attachment - blog-bg-free-img
+Inserted - Post 278 - attachment - blog-1-free-img
+Inserted - Post 280 - attachment - blog1-free-img
+Inserted - Post 286 - attachment - blog-2-free-img
+Inserted - Post 713 - page - Home
+Inserted - Post 5 - page - About
+Inserted - Post 714 - page - Services
+Inserted - Post 715 - page - Projects
+Inserted - Post 716 - page - Contact
+Inserted - Post 10 - nav_menu_item - 
+Inserted - Post 11 - nav_menu_item - 
+Inserted - Post 12 - nav_menu_item - 
+Inserted - Post 13 - nav_menu_item - 
+Inserted - Post 49 - custom_css - astra
+Inserted - Post 150 - nav_menu_item - 
+Inserted - Post 273 - page - Blog
+Inserted - Post 287 - attachment - blog2-free-img
+Inserted - Post 289 - attachment - blog3-free-img
+Inserted - Post 290 - attachment - blog-3-free-img
+Inserted - Post 294 - attachment - blog-4-free-img
+Inserted - Post 295 - attachment - blog4-free-img
+Inserted - Post 299 - attachment - blog-6-free-img
+Inserted - Post 310 - nav_menu_item - 
+Inserted - Post 277 - post - Top 5 Adventure Places In Habentia Spectent
+Inserted - Post 285 - post - Exciting Forest Journeys In Voluptates Repudiandae
+Inserted - Post 288 - post - Arizona Journey with molestiae non recusandae
+Inserted - Post 293 - post - Into The Deep In Pacific With Vero Eeos
+Inserted - Post 296 - post - Top 10 Adventure Places To Experience Quasi Architecto
+Inserted - Post 298 - post - Awesome Place To Feel Dolores Eos
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"","nav_menu_locations":{"primary":"menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"siteorigin_widgets_active":null,"elementor_container_width":"","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":"","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started!
+Astra Sites - Importing Images for Blog name 'demo' (1)
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 310
+Post ID: 150
+Post ID: 10
+Post ID: 11
+Post ID: 12
+Post ID: 13
+Batch Process Complete!
